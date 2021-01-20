@@ -1,6 +1,6 @@
-Hey, I'm Ian. 👋
+### Hey, I'm Ian. 👋
 
-I'm a software developer and consultant from the UK. These days, I'm also the Technical Director at [Komodo Digital](https://www.komododigital.co.uk).
+I'm a software developer and consultant from the UK 🇬🇧. These days, I'm also the Technical Director at [Komodo Digital](https://www.komododigital.co.uk).
 
 I've worked in the software development industry for 12 years and I still wake up every morning with a passion for technology. These days, I need a coffee to help me get going though... 😉
 

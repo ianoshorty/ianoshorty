@@ -10,7 +10,7 @@ I've worked in the software development industry for 12 years and I still wake u
   <a href="https://twitter.com/onehourfree"><img width="300" align='left' src="https://github.com/ianoshorty/ianoshorty/blob/main/assets/onehourfree.png?raw=true"></a>
 </p>
 
-### ONE:HOUR:FREE
+### 💸 ONE:HOUR:FREE
 
 _2020 was a bit pants_ - but it made me realise I can be doing more to help others. To that end...
 

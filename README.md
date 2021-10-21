@@ -26,6 +26,8 @@ This can be anything thats a good cause (and doesn't have to be anything related
 
 You can find out more in [my twitch bio](https://twitch.tv/onehourfree)!
 
+>**Note:** Due to personal and work commitments, I've had to pause this. It may come back, whow knows...
+
 ---
 
 ### 💬 Talking Tech

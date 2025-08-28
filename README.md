@@ -1,8 +1,8 @@
 ### Hey, I'm Ian. 👋
 
-I'm a software developer and consultant from the UK 🇬🇧. I'm also a Staff Software Engineer at [Flexera](https://www.flexera.com).
+I'm an software consultant from the UK 🇬🇧.
 
-I've worked in the software development industry for 13 years and I still wake up every morning with a passion for technology. These days, I need a coffee to help me get going though... 😉
+I've worked in the software development industry for 18 years and I still wake up every morning with a passion for technology. These days, I need a coffee to help me get going though... 😉
 
 ---
 
@@ -12,7 +12,7 @@ I love to talk about software development. If you're interest in:
 
  - Creating great software / web applications
  - Being helpful
- - JavaScript, TypeScript, PHP or Objective-C
+ - GoLang, JavaScript, TypeScript, PHP or Objective-C
  - React, GraphQL, Next, Express, Gatsby, React Native, Laravel, WordPress
  - Serverless or Cloud Infrastruture (mainly on AWS)
  - Devops or CI/CD (mainly using Docker, Jenkins, CircleCI)
